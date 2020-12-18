@@ -22,3 +22,5 @@
 #### A folder created by the Jupyter Notebook
 ### Test
 #### It is a folder that I used to test different photos
+### Network.ipynb
+#### The code in a file type that can only be used by Jupyter Notebook
