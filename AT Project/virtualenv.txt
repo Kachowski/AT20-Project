@@ -1,0 +1,6 @@
+cd Desktop
+cd AT_Project
+
+conda activate tensorflow
+
+jupyter notebook
