@@ -24,3 +24,6 @@
 #### It is a folder that I used to test different photos
 ### Network.ipynb
 #### The code in a file type that can only be used by Jupyter Notebook
+## Additional Files Needed
+### Fish photos found at this link
+#### http://groups.inf.ed.ac.uk/f4k/GROUNDTRUTH/RECOG/
